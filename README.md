@@ -1,4 +1,4 @@
-# 💬 Chat-Style Text Generator using RNN (LSTM)
+# Chat-Style Text Generator using RNN (LSTM)
 
 This project demonstrates how to train a **Recurrent Neural Network (RNN)** using **LSTM (Long Short-Term Memory)** layers to generate **chat-style text**.  
 By learning from short conversational sentences, the model predicts and generates the next possible words — mimicking a simple chatbot-like response generator.
@@ -25,7 +25,6 @@ In this project, we:
 3. Trained an **LSTM-based RNN model** to predict the next word in a sequence.  
 4. Used the trained model to **generate realistic chat-style text**.  
 
----
 
 ## Features
 
@@ -35,7 +34,6 @@ In this project, we:
 - Built and trained entirely on **Kaggle Notebook environment**  
 - Comes with a markdown guide (`RNN_Concept.md`) and visual explanations inside the **`images/`** folder  
 
----
 
 ## Project Structure
 ├── Chat-Style-Text-Generator-using-RNN-LSTM/
